@@ -281,7 +281,7 @@ button:focus{
         z-index: 10;
         /* width: 99.7%; */
         width: 85vw;
-        height: 160px;
+        height: 0px;
         left: 50%;
         background-color: white;
         transform: translateX(-50%);
